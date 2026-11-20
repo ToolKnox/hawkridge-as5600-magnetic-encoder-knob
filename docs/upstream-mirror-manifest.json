@@ -1,0 +1,332 @@
+{
+ "kind": "github",
+ "subdir": "",
+ "repo": "https://github.com/scottbez1/AS5600Knob",
+ "commit": "5c34c24576ac14bb009d6ec1f84694211dc64253",
+ "tree": "b451d61dffcc4e75bb0e594a5424448ae7834c74",
+ "commit_date": "2021-08-10T23:35:14Z",
+ "files": [
+  {
+   "path": ".github/FUNDING.yml",
+   "bytes": 18,
+   "git_blob_sha": "fa70e25b37018b31c33d37d51e5e17309a1c339d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3f05f76dd9081e76f65429e1f6a2a3b7748a7989b067a948bbc4f079bbc6f112"
+  },
+  {
+   "path": ".gitignore",
+   "bytes": 124,
+   "git_blob_sha": "d33f1ce598542f4a3cf5060ef5480b88740e9d17",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "aadc59ed07b7401bb8eb644bd64a3aad5e3bc0861545a4c78c6dc630b8d66fad"
+  },
+  {
+   "path": ".vscode/extensions.json",
+   "bytes": 197,
+   "git_blob_sha": "0f0d7401df0c9b133b596dc4e00fbe9fd7d467c0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6bce3643673f042bfb1a783e5e29cf0b084104f3a9c8d6455266dc665d474905"
+  },
+  {
+   "path": "AS5600BasePlate.stl",
+   "bytes": 76484,
+   "git_blob_sha": "4a9cc03006bd8e9a8edbb795c15ce57fbdfcbf73",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e3e3c478dfa58841e8e53bb2bed1f69ca3bf3894342bbf9c138dbf1b2d92087c"
+  },
+  {
+   "path": "AS5600BearingMount.stl",
+   "bytes": 159684,
+   "git_blob_sha": "15192fcb17aff6ffe80d91ed6eb43160fe2bf755",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "d58ac8f78fe2743ab558dec300856a5b5af860ec28b14de08d4dca05489d7169"
+  },
+  {
+   "path": "AS5600Knob.stl",
+   "bytes": 80784,
+   "git_blob_sha": "4db07ecdc960e3fd2af97d703e5bd1f14ee1c124",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "467b4928dda53f75c48c1d95e49f7213b33dd16c3f4d220f4f6ade7ebc962536"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 11358,
+   "git_blob_sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+   "path": "NOTICE",
+   "bytes": 1194,
+   "git_blob_sha": "b576ee058124453bc7a50e7e3731adf4b77faa40",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f698d0b5c886786e7cb605a23a9f97429ea7fbca3df31063ec25300eb49ab482"
+  },
+  {
+   "path": "README.md",
+   "bytes": 3627,
+   "git_blob_sha": "00dae2b90072a3a650da95a8306fe907b96d6c74",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "2976fd9a955c6952ce14aefeeb7b19c44ea3e04067112a32797d2871d368b251"
+  },
+  {
+   "path": "as5600Knob v23.f3d",
+   "bytes": 455732,
+   "git_blob_sha": "d385814d4f9657881c5e7f9c8b7f817701a17c6e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "83569047a2f59d340f3dd4622854515ff3a57a3ffce373643ce420962e353fe0"
+  },
+  {
+   "path": "docs/assembly.png",
+   "bytes": 178817,
+   "git_blob_sha": "d106508118849a40f8cbc2fc3b4682f90c2968ad",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "c9c2931474d63fbb99367fe9d41ed5c82ae85b9feaab44c74b6824f6425b7f49"
+  },
+  {
+   "path": "docs/base_plate.png",
+   "bytes": 94229,
+   "git_blob_sha": "fbb9406c51cd24ba0429bffe4e14e1c9085a34e8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3d2cdb6c5d0eba42a98b1456cb9b006aa07be519a10ed59e77b83136f9a116d1"
+  },
+  {
+   "path": "docs/bearing_mount.png",
+   "bytes": 156088,
+   "git_blob_sha": "d32ebb299948b4f8ea8dd060ab30cb6f1bc62357",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fb2b0de86599c85b5289cd20ecfda998b28b1a8d017cfa72ef4a999d45d851fe"
+  },
+  {
+   "path": "docs/demo.gif",
+   "bytes": 16281805,
+   "git_blob_sha": "cd9e45a9f765dff0be4d9e16e97ead5bd8cdc8a2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "44df3fe273de14c31c775cedc0ff377cba8d51b018dc1acdc81ae85e9fafb72c"
+  },
+  {
+   "path": "docs/knob.png",
+   "bytes": 171065,
+   "git_blob_sha": "6a38d93dee089554a3569d5eee8b8d68e53c06a3",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1e8881a117a934ffaafc5221a2e1db5742cddc111c9debb5c7b882cd3eaa6914"
+  },
+  {
+   "path": "docs/knob_infill.png",
+   "bytes": 1643195,
+   "git_blob_sha": "8ada89956c442712e48617e2cec0e9f4cf65186a",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "9db83872f3d0e439f60d4eb5e8e68beb8e053b64f175891aa50b1f9475bf397b"
+  },
+  {
+   "path": "include/README",
+   "bytes": 1386,
+   "git_blob_sha": "194dcd43252dcbeb2044ee38510415041a0e7b47",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "af0e186680b645fa539e1db9ec876c13bc54478bbd967c1a916bf486f15a11c4"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/.github/ISSUE_TEMPLATE/bug_report.md",
+   "bytes": 834,
+   "git_blob_sha": "dd84ea7824f11be1eeda22377549cbc1aec7f980",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/.github/ISSUE_TEMPLATE/custom.md",
+   "bytes": 126,
+   "git_blob_sha": "48d5f81fa422964dd1eea360efdecfc5dc9a6c87",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "a062d66844de4e399924f13739309fcd6fa478edca7a6733ba2f9bdb85b9f45d"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/.github/ISSUE_TEMPLATE/feature_request.md",
+   "bytes": 595,
+   "git_blob_sha": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/.gitlab-ci.yml",
+   "bytes": 184,
+   "git_blob_sha": "5e2b6aa0c03c3b7a8ea48eca3e73d58abe09d35f",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f663115fc38b91ac107cfef08c4dfc1995ff7eef8fca7328834f88176c147171"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/.travis.yml",
+   "bytes": 391,
+   "git_blob_sha": "202d2e079b95106c1f8220c06649910eeb2e7d58",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "2012469b46a90a6907c2aaebc7750bac85e61e8e54950aa22eaf696568fe42f3"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/CODE_OF_CONDUCT.md",
+   "bytes": 3352,
+   "git_blob_sha": "8ee90f506c12a82abeabc61d0444df2fdd45b990",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f5aa57d8f09c378bfd5f41c1aaef4a77e8d264d7239cdd1417250c29fc224dbe"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/CONTRIBUTING.md",
+   "bytes": 225,
+   "git_blob_sha": "30b8de35ed758d8adc23bf643a1ace6c936542d0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e291dbae5887cc69d4528bf0b33afb9481dde91ded62e4c8ba74c9e0587e7f75"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/License.txt",
+   "bytes": 1073,
+   "git_blob_sha": "869e783f35aa89d70254db27cf5a0f80ac0b5b08",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "a40ee587b4cba1a263d797899dbd6343c3dd16c85ec276582d0eca6589d696b7"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/README.md",
+   "bytes": 2609,
+   "git_blob_sha": "94aa7f0142c269388cfae31c96c856af2d0a80cc",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6259b2fda9ffe89c9da7a9047727b61baf03da5cf57a9d2ff18e907bd9a6f19c"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/examples/fullFunction/fullFunction.ino",
+   "bytes": 8527,
+   "git_blob_sha": "2073d16678c674bd7f057c80b1e250e23389f8d8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "bf10b2ac88e9b443b86fc0aadc23593a12a006a56da0d3c3733e518aa60720b7"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/examples/readAngle/readAngle.ino",
+   "bytes": 1263,
+   "git_blob_sha": "e35082ae46409fdf03b5b47fbe863f89cfa3948e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e5ca3df3dde1937036a15ed345f2d86c9da53b22b42a8b852b79992a5cc662c0"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/examples/resultoutput/resultoutput.ino",
+   "bytes": 805,
+   "git_blob_sha": "72e577a53ac8af4850e6bd0b735edfcefe4ca256",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e04fa4b4db09c01e547db851bf1aa672a04fe0507e7f1192af2f42d06edbe171"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/keywords.txt",
+   "bytes": 813,
+   "git_blob_sha": "9bbe20a29e741904f3c706e51ec076118c51089d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "0b9061c96906a11698bafd9e941ab1ed19c148638fa56546da378daae5f37fe8"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/library.properties",
+   "bytes": 249,
+   "git_blob_sha": "8a9e15c30084f777a13c07e0b8c6e7239ab92e08",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "811ee6dd27b524586c0a04ac1b8780eb24a1f43e65c1633fa2a8f431e11f2f1e"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/src/AS5600.cpp",
+   "bytes": 11244,
+   "git_blob_sha": "d4ff6e73624bb55cdee111f87f9dcfa6bc26bac7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "c5387bd8aed96ed39e1d8547baf7bbf1eee8ad27c8aa6e2e05d8649baad23863"
+  },
+  {
+   "path": "lib/Seeed_Arduino_AS5600-master/src/AS5600.h",
+   "bytes": 1652,
+   "git_blob_sha": "788c6108281229ac133b616a64662adfadd19802",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3d944a8ec996cdc2315e494078fea3ef58d3b31e8058a387b9c2e43440b3deea"
+  },
+  {
+   "path": "platformio.ini",
+   "bytes": 905,
+   "git_blob_sha": "29c6e475ae9bcc4dd57c10e8812d0dc5682a9465",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e68f6050f51186cc073a25203cdb67fcfc126b9ea881a258e297ebb36f6de4a8"
+  },
+  {
+   "path": "src/display_task.cpp",
+   "bytes": 3145,
+   "git_blob_sha": "a365e879e8d7ccdec64cc00d2f76978451793c28",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "55bc15e38498bd1ee4bc795d6aed631092d07bebeed00824ba887d6fe13944a7"
+  },
+  {
+   "path": "src/display_task.h",
+   "bytes": 583,
+   "git_blob_sha": "f6651806cd6b616e50e44b7d348b33d89ce14c42",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1b1a4f562a695e34bd672fcfe751b1ed6d8674d92ddf3684924dfddc2476072a"
+  },
+  {
+   "path": "src/main.cpp",
+   "bytes": 646,
+   "git_blob_sha": "322bd2ed75d44d127f9417e7713015c79499d29e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fb92f801e8989ffeffbe30b59503bcdd6f359fc5db5dacb8ecf4018c61f1d8c5"
+  },
+  {
+   "path": "src/semaphore_guard.h",
+   "bytes": 1067,
+   "git_blob_sha": "0f9a2a17d1012ad6a9eea081e84b4438f21a3a28",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f80090c0e79405c078a7d5096e617fd459cb6a9f24a797a785b6aad93c9cbf40"
+  },
+  {
+   "path": "src/task.h",
+   "bytes": 1809,
+   "git_blob_sha": "3b46c33260d2ec544708cfbd31d98fb79c065a70",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "13c69f7bc903fc0cf838973ee652e2818161799115393ef9cdeb3542e8cd2fb7"
+  },
+  {
+   "path": "test/README",
+   "bytes": 490,
+   "git_blob_sha": "df5066e64d90bf4773299cb0037271e1c34d48d5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8e8b756bd2f85d101c1f131fdb8ee48d6099e338624589a9f8fafa0252368d69"
+  }
+ ],
+ "all_blob_match": true,
+ "lfs_pointers": []
+}
